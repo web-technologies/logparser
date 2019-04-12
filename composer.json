@@ -1,0 +1,9 @@
+{
+    "name": "rashid/logparser",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
